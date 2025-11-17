@@ -62,7 +62,7 @@ My passion sits at the intersection of **AI + Automation + Embedded Systems**, b
 
 ---
 
-## 🌐 **Futuristic GitHub Stats**
+## 🌐 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohammadArsalanShakil&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="160" />
