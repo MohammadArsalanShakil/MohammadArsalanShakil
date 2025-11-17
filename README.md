@@ -1,6 +1,6 @@
 <!-- Futuristic Neon Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00F0FF,100:8A2BE2&height=220&section=header&text=Mohammad%20Arsalan%20Shakil&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00F0FF,100:8A2BE2&height=140&section=header&text=Mohammad%20Arsalan%20Shakil&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 # 🌌 **Profile Overview**
