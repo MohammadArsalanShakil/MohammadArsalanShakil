@@ -1,6 +1,6 @@
 <!-- Futuristic Neon Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00F0FF,100:8A2BE2&height=140&section=header&text=Mohammad%20Arsalan%20Shakil&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00F0FF,100:8A2BE2&height=80&section=header&text=Mohammad%20Arsalan%20Shakil&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 # 🌌 **Profile Overview**
@@ -87,5 +87,5 @@ My passion sits at the intersection of **AI + Automation + Embedded Systems**, b
 
 <!-- Futuristic Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:8A2BE2,100:00F0FF&height=140&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:8A2BE2,100:00F0FF&height=50&section=footer" />
 </p>
