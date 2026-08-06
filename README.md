@@ -1,15 +1,22 @@
-<!-- Futuristic Neon Header Banner -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00F0FF,100:8A2BE2&height=80&section=header&text=Mohammad%20Arsalan%20Shakil&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00F0FF,100:8A2BE2&height=120&section=header&text=Mohammad%20Arsalan%20Shakil&fontSize=42&fontAlignY=32&fontColor=ffffff&desc=Software%20Engineer%20%C2%B7%20AI%20Automation%20%C2%B7%20IoT%20Solutions&descSize=16&descAlignY=55&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+CodingCops;AI-Powered+Business+Automation+%7C+LLMs+%7C+RAG;.NET+Core+%E2%80%A2+Angular+%E2%80%A2+Python+%E2%80%A2+Flutter;IoT+%2B+Edge+%2B+Cloud+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Business+Automation+Systems;LLMs+%C2%B7+RAG+Pipelines+%C2%B7+n8n+Workflow+Automation;.NET+Core+%C2%B7+Angular+%C2%B7+Python+%C2%B7+FastAPI+%C2%B7+Flutter;IoT+%26+Embedded+Systems+%E2%80%94+Edge+to+Cloud" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marsalanshakil"><img src="https://img.shields.io/badge/LinkedIn-marsalanshakil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:arsalanshakil9@gmail.com"><img src="https://img.shields.io/badge/Email-arsalanshakil9%40gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/marsalanshakil">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:arsalanshakil9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍_Lahore,_Pakistan-2F363D?style=for-the-badge" />
 </p>
 
 ---
@@ -37,17 +44,6 @@ Software Engineer specializing in **AI-powered business automation and IoT solut
 | 🔐 [**Messenger / CryptographyUtils**](https://github.com/MohammadArsalanShakil/Messenger) | Encrypted messenger; its crypto layer is published on **NuGet** as `CryptographyUtils` for easy .NET integration | `C#` `.NET` |
 | 🌦️ [**WeatherApp**](https://github.com/MohammadArsalanShakil/WeatherApp) | Current-weather display app built in Blazor using OpenWeatherAPI | `Blazor` `C#` |
 | 🔑 [**JwtAuthRefreshTokenAPI**](https://github.com/MohammadArsalanShakil/JwtAuthRefreshTokenAPI) | JWT authentication with refresh-token flow for ASP.NET Core APIs | `C#` `.NET` |
-
----
-
-## 💼 Experience
-
-| | Role | Company |
-|---|---|---|
-| 🟢 **2026 – Now** | Software Engineer | **CodingCops** |
-| 🔵 2025 – 2026 | Software Engineer — HIPAA-compliant web apps (.NET Core, Angular, MS SQL) | HawkLogix |
-| 🔵 2024 – 2025 | Software Engineer — .NET MVC / Core APIs on Azure | Logic Powered Solutions |
-| 🔵 2022 – 2024 | Research Assistant — real-time data distribution, actor-model concurrency, bus protocol simulators, NuGet packages | NASTP |
 
 ---
 
