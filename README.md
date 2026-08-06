@@ -3,87 +3,94 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00F0FF,100:8A2BE2&height=80&section=header&text=Mohammad%20Arsalan%20Shakil&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-# 🌌 **Profile Overview**
-
-👋 Welcome to my digital space.  
-I build **intelligent, automated, and connected systems** by blending **software, hardware, and AI** — wrapped in clean engineering and automation.
-
-🎓 **MS in Data Science**  
-🎓 **BS in Computer Science**  
-💼 **4+ years in development**
-
----
-
-## ⚡ **About Me**
-I specialize in:
-- **Android Development**
-- **IoT Systems (Arduino, Raspberry Pi)**
-- **.NET Core Development**
-- **Machine Learning & Data Science**
-- **n8n Automation Workflows**
-- **Modern Web Apps (Angular)**
-
-My passion sits at the intersection of **AI + Automation + Embedded Systems**, building futuristic solutions from edge devices to cloud pipelines.
-
----
-
-## 🧬 **Tech Stack (Neon Edition)**
-
-### 🧠 **AI & Data**
-`Python` • `Pandas` • `NumPy` • `Scikit-Learn` • `ML Pipelines`
-
-### 🤖 **Automation**
-`n8n` • API & Workflow Automations • AI-integrated Pipelines
-
-### 📱 **Mobile / Web / Backend**
-`Android (Kotlin/Java)` • `.NET Core (C#)` • `Angular` • `REST APIs`
-
-### 🔌 **Hardware / Embedded**
-`Arduino` • `Raspberry Pi` • Sensors • Edge Computing
-
-### 🛠 **Tools**
-`Git/GitHub` • `Docker` • `Cloud Basics` • `CI/CD Fundamentals`
-
----
-
-## 🚀 **Currently Evolving**
-- Advanced **Machine Learning**
-- n8n + AI Automations  
-- IoT + Cloud + ML hybrid systems  
-- Big-picture systems design
-
----
-
-## 🤝 **Collaboration Interests**
-- Future-tech **IoT Projects**
-- AI & **Machine Learning Models**
-- n8n Automations  
-- Smart hardware + AI ecosystems  
-
----
-
-## 🌐 **GitHub Stats**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+CodingCops;AI-Powered+Business+Automation+%7C+LLMs+%7C+RAG;.NET+Core+%E2%80%A2+Angular+%E2%80%A2+Python+%E2%80%A2+Flutter;IoT+%2B+Edge+%2B+Cloud+Systems" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadArsalanShakil&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadArsalanShakil&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="160" />
+  <a href="https://www.linkedin.com/in/marsalanshakil"><img src="https://img.shields.io/badge/LinkedIn-marsalanshakil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:arsalanshakil9@gmail.com"><img src="https://img.shields.io/badge/Email-arsalanshakil9%40gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Lahore,%20Pakistan-00F0FF?style=for-the-badge&logo=googlemaps&logoColor=black" />
 </p>
 
 ---
 
-## 🛡️ **Neon Tech Badges**
+## 🌌 About Me
+
+Software Engineer specializing in **AI-powered business automation and IoT solutions**. I build intelligent, automated, and connected systems by blending software, hardware, and AI — from edge devices to cloud pipelines.
+
+- 🧠 **AI & LLMs** — local/open-source LLMs with **Ollama**, LLM assistants, **RAG pipelines**, and AI automation integrated into real-world applications
+- ⚙️ **Automation** — designing autonomous business workflows with **n8n**, connecting APIs, AI models, and data pipelines
+- 🏗️ **Full-stack engineering** — scalable **.NET Core** + **Angular** applications (including HIPAA-compliant healthcare systems), deployed on **Azure**
+- 🔌 **IoT & Embedded** — Arduino, Raspberry Pi, NodeMCU, sensors, and real-time data systems
+- 🎓 **MS in Data Science** (Bahria University) — thesis on **Generative Adversarial Networks (GANs)** • **BS in Computer Science**
+- 💼 **4+ years** across the full SDLC: architecture → implementation → deployment → optimization
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| ☀️ [**Solar_Electricity_Calc**](https://github.com/MohammadArsalanShakil/Solar_Electricity_Calc) | Open-source residential solar + battery sizing calculator implementing a full load-audit-to-string-config methodology | `FastAPI` `React` `Python` |
+| 🖥️ [**Nexus_System_Monitor**](https://github.com/MohammadArsalanShakil/Nexus_System_Monitor) | Sci-fi cyan-hologram HUD dashboard streaming live machine vitals (CPU, GPU, network, temps) to the browser | `Python` `HTML` |
+| 📈 [**PSX**](https://github.com/MohammadArsalanShakil/PSX) | Daily Pakistan Stock Exchange briefing pipeline — KSE-100 data + LLM-filtered news, synthesized by your choice of LLM, plus an on-demand stock-review agent | `Python` `LLM` |
+| 🔐 [**Messenger / CryptographyUtils**](https://github.com/MohammadArsalanShakil/Messenger) | Encrypted messenger; its crypto layer is published on **NuGet** as `CryptographyUtils` for easy .NET integration | `C#` `.NET` |
+| 🌦️ [**WeatherApp**](https://github.com/MohammadArsalanShakil/WeatherApp) | Current-weather display app built in Blazor using OpenWeatherAPI | `Blazor` `C#` |
+| 🔑 [**JwtAuthRefreshTokenAPI**](https://github.com/MohammadArsalanShakil/JwtAuthRefreshTokenAPI) | JWT authentication with refresh-token flow for ASP.NET Core APIs | `C#` `.NET` |
+
+---
+
+## 🧬 Tech Stack
+
+### 🧠 AI & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama%20%2F%20Local%20LLMs-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-8A2BE2?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### 🤖 Automation
+![n8n](https://img.shields.io/badge/n8n-A020F0?style=for-the-badge&logo=n8n&logoColor=white)
+![API Automation](https://img.shields.io/badge/API%20%26%20Workflow%20Automation-00F0FF?style=for-the-badge)
+
+### 🖥️ Backend / Web / Mobile
+![.NET](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### ☁️ Cloud & Data
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🔌 Hardware / Embedded
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![NodeMCU](https://img.shields.io/badge/NodeMCU%20%2F%20ESP-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+---
+
+## 🌐 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-A020F0?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadArsalanShakil&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadArsalanShakil&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=8" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MohammadArsalanShakil&theme=tokyonight&hide_border=true&border_radius=20" height="160" />
 </p>
 
 ---
+
+## 🤝 Open to Collaborate On
+
+**AI & LLM-powered applications** • **n8n automation workflows** • **IoT + Cloud + ML hybrid systems** • **.NET / FastAPI backends** • **Smart hardware ecosystems**
 
 <!-- Futuristic Footer -->
 <p align="center">
