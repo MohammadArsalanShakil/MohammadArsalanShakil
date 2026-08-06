@@ -95,8 +95,3 @@ Software Engineer specializing in **AI-powered business automation and IoT solut
 ## 🤝 Open to Collaborate On
 
 **AI & LLM-powered applications** • **n8n automation workflows** • **IoT + Cloud + ML hybrid systems** • **.NET / FastAPI backends** • **Smart hardware ecosystems**
-
-<!-- Futuristic Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:8A2BE2,100:00F0FF&height=50&section=footer" />
-</p>
