@@ -16,7 +16,9 @@
     <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/📍_Lahore,_Pakistan-2F363D?style=for-the-badge" />
+  <a href="https://discord.com/users/1533979520762253345">
+  <img src="https://img.shields.io/badge/Discord-mohammadarsalanshakil-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 </p>
 
 ---
